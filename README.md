@@ -1,4 +1,5 @@
-Project Name: CoderX Gaming Website
+## Project Name: CoderX Gaming Website 
+## FRONTEND ONLY
 
 Description:
 CoderX Gaming Website is an engaging and visually captivating online platform dedicated to the world of gaming. Developed using HTML, CSS, and JavaScript, this project aims to provide a seamless and immersive gaming experience for enthusiasts, allowing them to explore and stay up-to-date with the latest trends in the gaming industry.
