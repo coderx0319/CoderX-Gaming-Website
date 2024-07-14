@@ -19,3 +19,7 @@ Key Features:
 7. Developer Resources: As a platform dedicated to gamers and developers alike, the website includes a section with resources for game developers. Here, aspiring developers can access tutorials, sample code, and useful tools to help them kickstart their game development journey.
 
 Whether you are a passionate gamer seeking new experiences or a game developer looking for inspiration and resources, CoderX Gaming Website has something for everyone. The project's use of HTML, CSS, and JavaScript showcases the power of web technologies in creating captivating and interactive online gaming platforms. Embark on an exciting journey into the gaming universe with CoderX Gaming Website!
+
+## Author
+
+This project was created by [Shantanu Vedante](https://github.com/coderx0319/). You can connect with me on [LinkedIn](https://www.linkedin.com/in/shantanuvedante23/) and follow me [[here](https://github.com/coderx0319)]
